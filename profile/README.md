@@ -18,26 +18,24 @@ Nous créons un écosystème où :
 
 ## 🧱 Nos projets techniques
 
-| Projet                                                       | Description                                                            | Statut              |
-| ------------------------------------------------------------ | ---------------------------------------------------------------------- | ------------------- |
-| [**hestia-apps**](https://github.com/Hestia/hestia-apps)     | Monorepo principal : Web (Next.js) + Mobile (Expo) + Supabase backend. | 🚧 En développement |
-| [**hestia-docs**](https://github.com/Hestia/hestia-docs)     | Documentation technique, guides internes et API.                       | 🧾 En rédaction     |
-| [**hestia-infra**](https://github.com/Hestia/hestia-infra)   | Scripts d’infrastructure, migrations Supabase, CI/CD.                  | ⚙️ En préparation   |
-| [**hestia-design**](https://github.com/Hestia/hestia-design) | Design system et composants UI partagés (Tamagui / Figma).             | 🎨 À venir          |
+| Projet                                                                                                      | Description                                                            | Statut              |
+| ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------- |
+| [**hestia-apps**](<[https://github.com/Hestia-HCR/hestia-apps](https://github.com/Hestia-HCR/hestia-apps)>) | Monorepo principal : Web (Next.js) + Mobile (Expo) + Supabase backend. | 🚧 En développement |
+| [**landing-page**](<[https://github.com/Hestia/hestia-apps](https://github.com/Hestia-HCR/Landing-page)>)   | Next.js                                                                | 🚧 En développement |
+| [**hestia-design**](https://github.com/Hestia/hestia-design)                                                | Design system et composants UI partagés (Tamagui / Figma).             | 🎨 À venir          |
 
 ---
 
 ## ⚙️ Stack technique
 
-| Domaine              | Technologies principales                       |
-| -------------------- | ---------------------------------------------- |
-| **Frontend Web**     | Next.js (App Router, TypeScript, SSR)          |
-| **Mobile**           | Expo / React Native                            |
-| **Backend & Data**   | Supabase (PostgreSQL, Auth, Realtime, Storage) |
-| **ORM / Validation** | Prisma + Zod                                   |
-| **CI/CD**            | Vercel, Expo EAS                               |
-| **Monitoring**       | Sentry, PostHog                                |
-| **Design System**    | Tamagui + NativeWind                           |
+| Domaine            | Technologies principales                       |
+| ------------------ | ---------------------------------------------- |
+| **Frontend Web**   | Next.js (App Router, TypeScript, SSR)          |
+| **Mobile**         | Expo / React Native                            |
+| **Backend & Data** | Supabase (PostgreSQL, Auth, Realtime, Storage) |
+| **CI/CD**          | Vercel, Expo EAS                               |
+| **Monitoring**     | Sentry, PostHog                                |
+| **Design System**  | Tamagui + NativeWind                           |
 
 ---
 
